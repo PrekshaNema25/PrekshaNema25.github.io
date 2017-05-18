@@ -1,5 +1,5 @@
 # About Me
-<p align = "center"> I am currently pursuing my Ph.D. under Dr.Mitesh M. Khapra and co-guided by Dr. Balaraman Ravindran at IIT Madras. I was an M.Tech student from 2015-2017. I work on Deep Learning for Natural Language Processing. I am an idiot. I love my boyfriend :P </p>
+<p align = "center"> I am currently pursuing my Ph.D. under Dr.Mitesh M. Khapra and co-guided by Dr. Balaraman Ravindran at IIT Madras. I was an M.Tech student from 2015-2017. I work on Deep Learning for Natural Language Processing. I am a mawali </p>
 
 # Contact:
 preksha [at] cse[dot]iitm[dot]ac[dot]in
