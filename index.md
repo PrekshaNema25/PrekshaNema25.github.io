@@ -5,7 +5,7 @@
 # Publications:
 * [Diversity driven Attention Model for Query-based Abstractive Summarization](https://arxiv.org/abs/1704.08300)
    ###### Preksha Nema, Mitesh M. Khapra, Anirban Laha, Balaraman Ravindran
-   [!alt text](https://github.com/PrekshaNema25/PrekshaNema25.github.io/blob/master/images/query.png)
+   ![alt text](https://github.com/PrekshaNema25/PrekshaNema25.github.io/blob/master/images/query.png)
   * [Data](https://github.com/PrekshaNema25/Debatepedia_Dataset) [Code](https://github.com/PrekshaNema25/diversity_based_attention) 
 
 
