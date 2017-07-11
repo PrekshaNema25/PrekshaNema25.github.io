@@ -1,4 +1,4 @@
-# About Me
+# About me
 <div style = "text-align: justify"> I am currently pursuing my Ph.D. under Dr. Mitesh M. Khapra and co-guided by Dr. Balaraman Ravindran at IIT Madras. I joined as an M.Tech in 2015, but recently converted to Ph.D. I work on Deep Learning for Natural Language Processing. </div>
 
 
