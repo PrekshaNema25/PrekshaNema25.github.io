@@ -1,6 +1,12 @@
 # About Me
-<div style = "text-align: justify"> I am currently pursuing my Ph.D. under Dr. Mitesh M. Khapra and co-guided by Dr. Balaraman Ravindran at IIT Madras. I was an M.Tech student from 2015-2017. I work on Deep Learning for Natural Language Processing. </div>
+<div style = "text-align: justify"> I am currently pursuing my Ph.D. under Dr. Mitesh M. Khapra and co-guided by Dr. Balaraman Ravindran at IIT Madras. I joined as an M.Tech in 2015, but recently converted to Ph.D. I work on Deep Learning for Natural Language Processing. </div>
 
+
+# Work Experience
+I worked in Nvidia Graphics Pvt. Ltd. from June 2012 - June 2015 as a System Software Engineer.
+
+# Academic Details skjdkdj
+I have completed my B.Tech from Visvesvaraya National Institute of Technology 
 # Contact:
 preksha [at] cse[dot]iitm[dot]ac[dot]in
 
