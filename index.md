@@ -1,10 +1,10 @@
-# About me
+# About Me
 <div style = "text-align: justify"> I am currently pursuing my Ph.D. under Dr. Mitesh M. Khapra and co-guided by Dr. Balaraman Ravindran at IIT Madras. I joined as an M.Tech in 2015, but recently converted to Ph.D. I work on Deep Learning for Natural Language Processing. </div>
 
 
 # Publications:
 * [Diversity driven Attention Model for Query-based Abstractive Summarization](https://arxiv.org/abs/1704.08300)
-   ###### Preksha Nema, Mitesh M. Khapra, Anirban Laha, Balaraman Ravindran
+   <h6> Preksha Nema, Mitesh M. Khapra, Anirban Laha, Balaraman Ravindran </h6>
    ![alt text](https://github.com/PrekshaNema25/PrekshaNema25.github.io/blob/master/images/query.png)
   * [Data](https://github.com/PrekshaNema25/Debatepedia_Dataset) [Code](https://github.com/PrekshaNema25/diversity_based_attention) 
 
