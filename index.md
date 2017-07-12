@@ -8,8 +8,6 @@
    
    <div style="width: 50%; float:left;">
    ![alt text](/images/query.png)
-   </div>
-   <div style = "width: 50%; float:right;">
    * [Data](https://github.com/PrekshaNema25/Debatepedia_Dataset) 
    * [Code](https://github.com/PrekshaNema25/diversity_based_attention) 
    </div>
