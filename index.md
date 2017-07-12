@@ -4,10 +4,9 @@
 
 # Publications:
    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-
     <tr>
       <td width="25%">
-        <div class="two" id = 'friendly_image'><img src='/images/query.png'></div>             
+      <img src='/images/query.png'>         
       </td>
       <td valign="top" width="75%">
         <p><a href="https://arxiv.org/abs/1704.08300">
