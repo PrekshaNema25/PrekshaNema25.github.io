@@ -3,17 +3,11 @@
 
 
 # Publications:
-* [Diversity driven Attention Model for Query-based Abstractive Summarization](https://arxiv.org/abs/1704.08300)
-   <h4> Preksha Nema, Mitesh M. Khapra, Anirban Laha, Balaraman Ravindran </h4>
-   
    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
     <tr>
       <td width="25%">
-        <div class="one">
-        <div class="two" id = 'friendly_image'><img src='/images/query.png'></div>
-        <img src='friendly_before.png'>
-        </div>                
+        <div class="two" id = 'friendly_image'><img src='/images/query.png'></div>             
       </td>
       <td valign="top" width="75%">
         <p><a href="https://arxiv.org/abs/1704.08300">
