@@ -5,11 +5,16 @@
 # Publications:
 * [Diversity driven Attention Model for Query-based Abstractive Summarization](https://arxiv.org/abs/1704.08300)
    <h4> Preksha Nema, Mitesh M. Khapra, Anirban Laha, Balaraman Ravindran </h4>
-   
+   <div style="width: 50%; float:left">
    ![alt text](/images/query.png)
-   * [Data](https://github.com/PrekshaNema25/Debatepedia_Dataset) [Code](https://github.com/PrekshaNema25/diversity_based_attention) 
+   </div>
+   <div style = "width: 50%; float:right">
+   * [Data](https://github.com/PrekshaNema25/Debatepedia_Dataset) 
+   * [Code](https://github.com/PrekshaNema25/diversity_based_attention) 
+   </div>
+   
 
-
+<br style="clear:both;"/>
 # Work Experience
 I worked in Nvidia Graphics Pvt. Ltd. from June 2012 - June 2015 as a System Software Engineer.
 
