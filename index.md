@@ -4,7 +4,7 @@
 
 # Publications:
    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-   <tr colspan=2>
+   <tr colspan="2">
    <th> <a href="https://arxiv.org/abs/1704.08300"><h3>Diversity driven Attention Model for Query-based Abstractive Summarization</h3></a></th></tr>
     <tr>
       <td width="30%">
