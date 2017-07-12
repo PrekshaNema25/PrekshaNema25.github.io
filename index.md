@@ -5,10 +5,11 @@
 # Publications:
 * [Diversity driven Attention Model for Query-based Abstractive Summarization](https://arxiv.org/abs/1704.08300)
    <h4> Preksha Nema, Mitesh M. Khapra, Anirban Laha, Balaraman Ravindran </h4>
-   <div style="width: 50%; float:left">
+   
+   <div style="width: 50%; float:left;">
    ![alt text](/images/query.png)
    </div>
-   <div style = "width: 50%; float:right">
+   <div style = "width: 50%; float:right;">
    * [Data](https://github.com/PrekshaNema25/Debatepedia_Dataset) 
    * [Code](https://github.com/PrekshaNema25/diversity_based_attention) 
    </div>
