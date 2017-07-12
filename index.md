@@ -11,6 +11,7 @@
       <td valign="top" width="75%">
         <p><a href="https://arxiv.org/abs/1704.08300">
         <h3>Diversity driven Attention Model for Query-based Abstractive Summarization</h3></a><br>
+        <p> 
       </td>
     </tr>
    </table>
