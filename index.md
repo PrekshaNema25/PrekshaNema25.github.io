@@ -26,4 +26,7 @@ I worked in Nvidia Graphics Pvt. Ltd. from June 2012 - June 2015 as a System Sof
 I have completed my B.Tech from Visvesvaraya National Institute of Technology, Nagpur in Computer Science and Engineering in 2012.
 
 # Contact:
+
+[Resume]("/images/resume.pdf")
+
 preksha [at] cse[dot]iitm[dot]ac[dot]in
