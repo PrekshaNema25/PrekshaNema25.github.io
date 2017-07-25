@@ -27,6 +27,6 @@ I have completed my B.Tech from Visvesvaraya National Institute of Technology, N
 
 # Contact:
 
-[Resume](/images/resume.pdf)
+[Resume](images/resume.pdf)
 
 preksha [at] cse[dot]iitm[dot]ac[dot]in
