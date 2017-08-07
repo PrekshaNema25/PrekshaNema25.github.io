@@ -10,11 +10,10 @@
 Google India Ph.D. Fellowship, 2017
 
 # Publications:
-<ul><li><table width="100%" align="center" border="0" cellspacing="0">
-   <tr text-align="justify"><a href="https://arxiv.org/abs/1704.08300"><h3>Diversity driven Attention Model for Query-based Abstractive Summarization</h3></a><font color="grey"><h5><i><b> Association of Computational Linguistics (ACL), 2017</b></i></h5></font>
+<ul><li>
+  <a href="https://arxiv.org/abs/1704.08300"><h3>Diversity driven Attention Model for Query-based Abstractive Summarization</h3></a><font color="grey"><h5><i><b> Association of Computational Linguistics (ACL), 2017</b></i></h5></font>
    <font color="black"><h5> Preksha Nema, Mitesh M. Khapra, Anirban Laha, Balaraman Ravindran </h5></font>
-
-   </tr>
+<table width="100%" align="center" border="0" cellspacing="0">
     <tr>
       <td width="30%">
       <img src='/images/query.png'>         
