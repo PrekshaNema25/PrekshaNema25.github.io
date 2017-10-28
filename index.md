@@ -11,6 +11,20 @@ Google India Ph.D. Fellowship, 2017
 
 # Publications:
 <ul>
+   
+   
+<li> <h3>Move On And Never Look Back: An Improved Neural Encoder Decoder Architecture for Generating Natural Language Descriptions from Structured Data</h3><font color="grey"><h5><i><b>Under review in TACL</b></i></h5></font>
+   <font color="black"><h5> Preksha Nema, Shreyas Shetty, Parag Jain, Mitesh Khapra, Anirban Laha, Karthik Sankaranarayanan, Balaraman Ravindran</h5></font>
+<table width="100%" align="center" border="0" cellspacing="0">
+    <tr>
+      <td width="30%">
+      <img src='/images/nlb.jpg'>         
+      </td>
+      <td valign="top" width="70%"> 
+        <div style = "text-align: justify"> <h6> Neural models for Natural language generation (NLG) have been successfully used in a wide variety of tasks such as machine translation, summarization, dialog generation, etc. In this work, we focus on one such NLG task which involves rendering natural language descriptions from a structured table of facts. A typical example of such a task is generating product descriptions from structured catalog tables. Unlike other NLG tasks the input here has a specific structure which can be exploited for building richer neural models. We propose such models which take cognizance of the : (i) hierarchical organization of facts (ii) need for continuous attention on a fact for multiple time steps and (iii) need for ignoring facts which have already been considered. We experiment with a recently released dataset which contains fact tables about people and their corresponding one line biographical descriptions in English. In addition, we also introduce two similar datasets for French and German. Our experiments show that the proposed model gives 21\% relative improvement over a recently proposed state of the art method and 10% relative improvement over basic seq2seq models..</h6></div>
+   </table>
+   </li>
+   
 <li> <a href="https://arxiv.org/abs/1704.08300"><h3>Diversity driven Attention Model for Query-based Abstractive Summarization</h3></a><font color="grey"><h5><i><b> Association of Computational Linguistics (ACL), 2017</b></i></h5></font>
    <font color="black"><h5> Preksha Nema, Mitesh M. Khapra, Anirban Laha, Balaraman Ravindran </h5></font>
 <table width="100%" align="center" border="0" cellspacing="0">
