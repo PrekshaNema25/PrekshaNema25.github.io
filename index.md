@@ -12,6 +12,21 @@ Google India Ph.D. Fellowship, 2017
 # Publications:
 
 <table width="100%" align="center" border="0" cellspacing="0">
+ 
+ <tr>
+  <td width ="100%" colspan="2">
+    <h3>Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalizationm(NAACL), 2018</b></i></h5></font>
+   <font color="black"><h5> Preksha Nema, Shreyas Shetty M, Parag Jain, Anirban Laha, Karthik Sankaranarayanan and Mitesh M. Khapra </h5></font>
+    </td>
+  
+   </tr>
+ <tr>
+      <td width="30%">
+      <img src='/images/att.png'>         
+      </td>
+      <td valign="top" width="70%"> 
+        <div style = "text-align: justify"> <h6> In this work, we focus on the task of generating natural language descriptions from a structured table of facts containing fields (such as nationality, occupation, etc) and values (such as Indian, {actor, director}, etc). One simple choice is to treat the table as a sequence of fields and values and then use a standard seq2seq model for this task. However, such a model is too generic and does not exploit task specific characteristics. For example, while generating descriptions from a table, a human would attend to information at two levels: (i) the fields (macro level) and (ii) the values within the field (micro level). Further, a human would continue attending to a field for a few timesteps till all the information from that field has been rendered and then never return back to this field (because there is nothing left to say about it). To capture this behavior we use (i) a fused bifocal attention mechanism which exploits and combines this micro and macro level information and (ii) a gated orthogonalization mechanism which tries to ensure that a field is remembered for a few timesteps and then forgotten.  We experiment with a recently released dataset which contains fact tables about people and their corresponding one line biographical descriptions in English. In addition, we also introduce two similar datasets for French and German. Our experiments show that the proposed model gives 21% relative improvement over a recently proposed state of the art method and 10% relative improvement over basic seq2seq models. The code and the datasets developed as a part of this work will be made publicly available.</h6></div>
+</td></tr>
  <tr>
   <td width ="100%" colspan="2">
     <a href="https://arxiv.org/abs/1704.08300"><h3>Diversity driven Attention Model for Query-based Abstractive Summarization</h3></a><font color="grey"><h5><i><b> Association of Computational Linguistics (ACL), 2017</b></i></h5></font>
@@ -28,6 +43,8 @@ Google India Ph.D. Fellowship, 2017
         <ul>
         <li><a href="https://github.com/PrekshaNema25/diversity_based_attention"> [Data + Code] </a></li>
         </ul></td></tr>
+
+
    </table>
    
 # Work Experience
