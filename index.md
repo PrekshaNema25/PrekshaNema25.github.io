@@ -12,7 +12,6 @@ Google India Ph.D. Fellowship, 2017
 # Publications:
 
 <table width="100%" align="center" border="0" cellspacing="0">
- 
  <tr>
   <td width ="100%" colspan="2">
     <h3>Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalizationm</b></i></h5></font>
@@ -44,9 +43,7 @@ Google India Ph.D. Fellowship, 2017
         <ul>
         <li><a href="https://github.com/PrekshaNema25/diversity_based_attention"> [Data + Code] </a></li>
         </ul></td></tr>
-
-
-   </table>
+ </table>
    
 # Work Experience
 I worked in Nvidia Graphics Pvt. Ltd. from June 2012 - June 2015 as a System Software Engineer in Resource Manager- Professional Soultions Group team.
