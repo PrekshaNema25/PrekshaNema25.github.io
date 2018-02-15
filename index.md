@@ -14,11 +14,10 @@ Google India Ph.D. Fellowship, 2017
 <table width="100%" align="center" border="0" cellspacing="0">
  <tr>
   <td width ="100%" colspan="2">
-    <h3>Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalizationm</b></i></h5></font>
+    <h3>Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalizationm</h3>
     <font color="grey"><h5><i><b> North American Chapter of the Association for Computational Linguistics (NAACL), 2018</b></i></h5></font>
    <font color="black"><h5> Preksha Nema, Shreyas Shetty M, Parag Jain, Anirban Laha, Karthik Sankaranarayanan and Mitesh M. Khapra </h5></font>
     </td>
-  
    </tr>
  <tr>
       <td width="30%">
