@@ -1,7 +1,7 @@
 <head>
 <title> Preksha Nema </title>
-
 </head>
+
 # About Me
 <div style = "text-align: justify"> I am currently pursuing my Ph.D. under Dr. Mitesh M. Khapra and co-guided by Dr. Balaraman Ravindran at IIT Madras. I joined IIT Madras as an M.Tech in July 2015, and then converted to Ph.D. programme in March 2017. My area of research is Deep learning for NLP. Currently my work is focussed on modelling better attention mechanism techniques for different Natural Language Generation tasks.
 </div>
@@ -15,7 +15,8 @@ Google India Ph.D. Fellowship, 2017
  
  <tr>
   <td width ="100%" colspan="2">
-    <h3>Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalizationm(NAACL), 2018</b></i></h5></font>
+    <h3>Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalizationm</b></i></h5></font>
+    <h5><i><b> North American Chapter of the Association for Computational Linguistics (NAACL), 2018</b></i></h5></font>
    <font color="black"><h5> Preksha Nema, Shreyas Shetty M, Parag Jain, Anirban Laha, Karthik Sankaranarayanan and Mitesh M. Khapra </h5></font>
     </td>
   
