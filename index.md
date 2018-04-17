@@ -42,7 +42,7 @@ Google India Ph.D. Fellowship, 2017
  <tr>
   <td width ="100%" colspan="2">
     <h3>A Mixed Hierarchical Attention based Encoder-Decoder Approach for Standard Table Summarization</h3>
-    <font color="grey"><h5><i><b> North American Chapter of the Association for Computational Linguistics (NAACL), 2018 (Short Papr) </b></i></h5></font>
+    <font color="grey"><h5><i><b> North American Chapter of the Association for Computational Linguistics (NAACL), 2018 (Short Paper) </b></i></h5></font>
    <font color="black"><h5> Parag Jain, Anirban Laha, Karthik Sankaranarayanan and Preksha Nema, Mitesh M. Khapra and  Shreyas Shetty </h5></font>
     </td>
    </tr>
