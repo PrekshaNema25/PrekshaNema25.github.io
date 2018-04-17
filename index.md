@@ -41,6 +41,21 @@ Google India Ph.D. Fellowship, 2017
         <li><a href="https://github.com/PrekshaNema25/StructuredData_To_Descriptions"> [Data + Code] </a></li>
         </ul></td></tr>
  <tr>
+   <tr>
+  <td width ="100%" colspan="2">
+    <h3>A Mixed Hierarchical Attention based Encoder-Decoder Approach for Standard Table Summarization</h3>
+    <font color="grey"><h5><i><b> North American Chapter of the Association for Computational Linguistics (NAACL), 2018 (Short Papr) </b></i></h5></font>
+   <font color="black"><h5> Parag Jain, Anirban Laha, Karthik Sankaranarayanan and Preksha Nema, Mitesh M. Khapra and  Shreyas Shetty </h5></font>
+    </td>
+   </tr>
+ <tr>
+      <td width="30%">
+      <img src='/images/table2text.png'>         
+      </td>
+      <td valign="top" width="70%"> 
+        <div style = "text-align: justify"> <h6> Structured data summarization involves generation of natural language summaries from structured input data. In this work, we consider summarizing structured data occurring in the form of tables as they are prevalent across a wide variety of domains. We formulate the standard table summarization problem, which deals with tables conforming to a single predefined schema. To this end, we propose a mixed hierarchical attention based encoder-decoder model which is able to leverage the structure in addition to the content of the tables. Our experiments on the publicly available weathergov dataset show around 18 BLEU  improvement over the current state-of-the-art. </h6></div>
+</td></tr>
+<tr>
   <td width ="100%" colspan="2">
     <a href="https://arxiv.org/abs/1704.08300"><h3>Diversity driven Attention Model for Query-based Abstractive Summarization</h3></a><font color="grey"><h5><i><b> Association of Computational Linguistics (ACL), 2017</b></i></h5></font>
    <font color="black"><h5> Preksha Nema, Mitesh M. Khapra, Anirban Laha, Balaraman Ravindran </h5></font>
