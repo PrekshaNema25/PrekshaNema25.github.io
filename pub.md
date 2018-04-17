@@ -1,3 +1,6 @@
+---
+layout: page
+---
 <table width="100%" align="center" border="0" cellspacing="0">
  <tr>
   <td width ="100%" colspan="2">
