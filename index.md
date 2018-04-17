@@ -29,8 +29,7 @@ Google India Ph.D. Fellowship, 2017
     <h3>Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalization</h3>
     <font color="grey"><h5><i><b> North American Chapter of the Association for Computational Linguistics (NAACL), 2018</b></i></h5></font>
    <font color="black"><h5> Preksha Nema, Shreyas Shetty M, Parag Jain, Anirban Laha, Karthik Sankaranarayanan and Mitesh M. Khapra </h5></font>
-    </td>
-   </tr>
+    </td></tr>
  <tr>
       <td width="30%">
       <img src='/images/nlb.jpg'>         
@@ -41,7 +40,6 @@ Google India Ph.D. Fellowship, 2017
         <li><a href="https://github.com/PrekshaNema25/StructuredData_To_Descriptions"> [Data + Code] </a></li>
         </ul></td></tr>
  <tr>
-   <tr>
   <td width ="100%" colspan="2">
     <h3>A Mixed Hierarchical Attention based Encoder-Decoder Approach for Standard Table Summarization</h3>
     <font color="grey"><h5><i><b> North American Chapter of the Association for Computational Linguistics (NAACL), 2018 (Short Papr) </b></i></h5></font>
@@ -60,7 +58,6 @@ Google India Ph.D. Fellowship, 2017
     <a href="https://arxiv.org/abs/1704.08300"><h3>Diversity driven Attention Model for Query-based Abstractive Summarization</h3></a><font color="grey"><h5><i><b> Association of Computational Linguistics (ACL), 2017</b></i></h5></font>
    <font color="black"><h5> Preksha Nema, Mitesh M. Khapra, Anirban Laha, Balaraman Ravindran </h5></font>
     </td>
-  
    </tr>
  <tr>
       <td width="30%">
