@@ -9,7 +9,7 @@
 # Awards
 Google India Ph.D. Fellowship, 2017
 
-# [Publications] (pub.html)
+# <a href="pub.html"> Publications </a>
 
    
 # Work Experience
