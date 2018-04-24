@@ -26,7 +26,7 @@ Google India Ph.D. Fellowship, 2017
         <div style = "text-align: justify"> <h6>  The task of Reading Comprehension with Multiple Choice Questions, requires a human (or machine) to read a given *{passage, question}* pair and select one of the *n* given options. The current state of the art model for this task first computes a query-aware representation for the passage and then *selects* the option which has the maximum similarity with this representation. However, when humans perform this task they do not just focus on option selection but use a combination of *elimination* and *selection*. This process could be repeated multiple times till the reader is finally ready to select the correct option. We propose *ElimiNet*, a neural network based model which tries to mimic this process. Specifically, it has gates which decide whether an option can be eliminated given the {*passage, question*} pair and if so it tries to make the passage representation orthogonal to this eliminated option (akin to ignoring portions of the passage corresponding to the eliminated option). The model makes multiple rounds of partial elimination to refine the passage representation and finally uses a selection module to pick the best option. </h6></div></td></tr>
  <tr>
   <td width ="100%" colspan="2">
-    <h3>Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalization</h3>
+    <h3><a href="https://arxiv.org/pdf/1804.07789.pdf">Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalization</a></h3>
     <font color="grey"><h5><i><b> North American Chapter of the Association for Computational Linguistics (NAACL), 2018</b></i></h5></font>
    <font color="black"><h5> Preksha Nema, Shreyas Shetty M, Parag Jain, Anirban Laha, Karthik Sankaranarayanan and Mitesh M. Khapra </h5></font>
     </td></tr>
@@ -41,7 +41,7 @@ Google India Ph.D. Fellowship, 2017
         </ul></td></tr>
  <tr>
   <td width ="100%" colspan="2">
-    <h3>A Mixed Hierarchical Attention based Encoder-Decoder Approach for Standard Table Summarization</h3>
+    <h3><a href="https://arxiv.org/pdf/1804.07790.pdf">A Mixed Hierarchical Attention based Encoder-Decoder Approach for Standard Table Summarization</a></h3>
     <font color="grey"><h5><i><b> North American Chapter of the Association for Computational Linguistics (NAACL), 2018 (Short Paper) </b></i></h5></font>
    <font color="black"><h5> Parag Jain, Anirban Laha, Karthik Sankaranarayanan and Preksha Nema, Mitesh M. Khapra and  Shreyas Shetty </h5></font>
     </td>
