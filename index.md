@@ -9,8 +9,24 @@
 # Awards
 Google India Ph.D. Fellowship, 2017
 
+# Internship
+Software Engineering Intern at Google, Zurich : 04/June/2018 - 14/September/2018
 # Publications
 <table width="100%" align="center" border="0" cellspacing="0">
+  <tr>
+  <td width ="100%" colspan="2">
+    <h3> Towards a Better Metric for Evaluating Question Generation Systems </h3>
+    <font color="grey"><h5><i><b>  Empirical Methods in Natural Language Processing, 2018</b></i></h5></font>
+   <font color="black"><h5>Preksha Nema, Mitesh M Khapra </h5></font>
+    </td>
+   </tr>
+ <tr>
+      <td width="30%">
+      <img src='/images/answerability.png'>         
+      </td>
+      <td valign="top" width="70%"> 
+        <div style = "text-align: justify"> <h6>  There has always been a criticism for using $n$-gram based similarity metrics, such as BLEU, NIST, \textit{etc}. for evaluating the performance of NLG systems. However, these metrics continue to remain popular and are recently being used for evaluating the performance of systems which automatically generate questions from documents, knowledge graphs, images, \textit{etc}. Given the rising interest in such automatic question generation (AQG) systems, it is important to critically examine whether these metrics are suitable for this task. In particular, it is important to verify whether such metrics used for evaluating AQG systems focus on \textit{answerability} of the generated question by preferring questions which contain all relevant information such as question type (Wh-types), entities, relations, \textit{etc}. In this work, we show that current automatic evaluation metrics based on $n$-gram similarity do not always correlate well with human judgments about \textit{answerability} of a question. To alleviate this problem and as a first step towards better evaluation metrics for AQG, we introduce a scoring function to capture \textit{answerability} and show that when this scoring function is integrated with existing metrics they correlate significantly better with human judgments.  </h6></div></td></tr>
+ <tr>
  <tr>
   <td width ="100%" colspan="2">
     <h3>ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions</h3>
