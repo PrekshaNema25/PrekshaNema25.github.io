@@ -11,6 +11,7 @@ Google India Ph.D. Fellowship, 2017
 
 # Internship
 Software Engineering Intern at Google, Zurich : 04/June/2018 - 14/September/2018
+
 # Publications
 <table width="100%" align="center" border="0" cellspacing="0">
   <tr>
@@ -95,6 +96,5 @@ I have completed my B.Tech from Visvesvaraya National Institute of Technology, N
 
 # Contact:
 
-[Resume](pdfs/resume.pdf)
-
 preksha [at] cse[dot]iitm[dot]ac[dot]in
+preksha [dot] nema9 [at] gmail [dot] com
