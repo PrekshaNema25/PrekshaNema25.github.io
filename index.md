@@ -89,7 +89,7 @@ Software Engineering Intern at Google, Zurich : 04/June/2018 - 14/September/2018
 
    
 # Work Experience
-I worked in Nvidia Graphics Pvt. Ltd. from June 2012 - June 2015 as a System Software Engineer in Resource Manager- Professional Soultions Group team.
+I worked at Nvidia Graphics Pvt. Ltd. from June 2012 - June 2015 as a System Software Engineer in Resource Manager- Professional Soultions Group team.
 
 # Academic Details
 I have completed my B.Tech from Visvesvaraya National Institute of Technology, Nagpur in Computer Science and Engineering in 2012.
@@ -97,4 +97,5 @@ I have completed my B.Tech from Visvesvaraya National Institute of Technology, N
 # Contact:
 
 preksha [at] cse[dot]iitm[dot]ac[dot]in
+
 preksha [dot] nema9 [at] gmail [dot] com
