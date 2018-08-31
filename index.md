@@ -16,7 +16,7 @@ Software Engineering Intern at Google, Zurich : 04/June/2018 - 14/September/2018
 <table width="100%" align="center" border="0" cellspacing="0">
   <tr>
   <td width ="100%" colspan="2">
-    <h3> Towards a Better Metric for Evaluating Question Generation Systems </h3>
+    <h3> <a href="https://arxiv.org/pdf/1808.10192">Towards a Better Metric for Evaluating Question Generation Systems </a></h3>
     <font color="grey"><h5><i><b>  Empirical Methods in Natural Language Processing, 2018</b></i></h5></font>
    <font color="black"><h5>Preksha Nema, Mitesh M Khapra </h5></font>
     </td>
