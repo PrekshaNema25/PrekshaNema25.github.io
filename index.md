@@ -10,7 +10,7 @@
 Google India Ph.D. Fellowship, 2017
 
 # Internship
-Software Engineering Intern at Google, Zurich : 04/June/2018 - 14/September/2018
+Software Engineering Intern at Google, Zurich : June-September, 2018
 
 # Publications
 <table width="100%" align="center" border="0" cellspacing="0">
@@ -46,7 +46,6 @@ Software Engineering Intern at Google, Zurich : 04/June/2018 - 14/September/2018
       <ul>
      <li><a href="https://github.com/PrekshaNema25/Answerability-Metric"> [Data+Script] </a></li>
         </ul></td></tr>
-   </td></tr>
  <tr>
   <td width ="100%" colspan="2">
     <h3><a href="https://www.ijcai.org/proceedings/2018/0594.pdf" >ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions</a></h3>
